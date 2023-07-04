@@ -78,29 +78,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+        - certificate_url: https://cursos.alura.com.br/program/certificate/ff756207-616f-4918-81ec-6c7e9600d44c
+          date_end: '2023-05-17'
+          date_start: ''
+          description: Programa em parceria da Alura com a Oracle para formar desenvolvedores.
           organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization_url: https://www.alura.com.br/
+          title: Oracle Next Education Back-end
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+        - certificate_url: https://www.dio.me/certificate/38F3DE1A/share
+          date_end: '2023-02-20'
+          date_start: ''
+          description: Curso completo de Java com certificação DioPro.
+          organization: dio
+          organization_url: https://www.dio.me
+          title: Formação Java Developer
+          url: ''
+        - certificate_url: https://www.freecodecamp.org/certification/guilherme-dos-santos-de-espindula/scientific-computing-with-python-v7
+          date_end: '2022-09-13'
+          date_start: ''
+          description: Developer Certification, representing approximately 300 hours of coursework.
+          organization: freecodecamp
+          organization_url: https://www.freecodecamp.org/
+          title: 'Scientific Computing with Python'
           url: ''
     design:
       columns: '2'
