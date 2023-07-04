@@ -82,8 +82,8 @@ sections:
           date_end: '2023-05-17'
           date_start: ''
           description: Programa em parceria da Alura com a Oracle para formar desenvolvedores.
-          organization: Coursera
-          organization_url: https://www.alura.com.br/
+          organization: Alura
+          organization_url: ''
           title: Oracle Next Education Back-end
           url: ''
         - certificate_url: https://www.dio.me/certificate/38F3DE1A/share
@@ -91,7 +91,7 @@ sections:
           date_start: ''
           description: Curso completo de Java com certificação DioPro.
           organization: dio
-          organization_url: https://www.dio.me
+          organization_url: ''
           title: Formação Java Developer
           url: ''
         - certificate_url: https://www.freecodecamp.org/certification/guilherme-dos-santos-de-espindula/scientific-computing-with-python-v7
@@ -99,7 +99,7 @@ sections:
           date_start: ''
           description: Developer Certification, representing approximately 300 hours of coursework.
           organization: freecodecamp
-          organization_url: https://www.freecodecamp.org/
+          organization_url: ''
           title: 'Scientific Computing with Python'
           url: ''
     design:
