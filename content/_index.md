@@ -40,7 +40,7 @@ sections:
         - title: Estagio de Ti
           company: Predictus
           company_url: ''
-          company_logo: 
+          company_logo: '1684953816770.svg'
           location: Florianopolis
           date_start: '2022-04-01'
           date_end: '2022-08-01'
@@ -53,7 +53,7 @@ sections:
         - title: Auxiliar de escritório/Ti
           company: ConCrédito Consignados
           company_url: ''
-          company_logo: 
+          company_logo: '1650899034730.svg'
           location: Osório
           date_start: '2021-11-01'
           date_end: '2022-04-30'
@@ -78,29 +78,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://cursos.alura.com.br/program/certificate/ff756207-616f-4918-81ec-6c7e9600d44c
-          date_end: '2023-05-17'
-          date_start: ''
-          description: Programa em parceria da Alura com a Oracle para formar desenvolvedores.
-          organization: Alura
-          organization_url: ''
-          title: Oracle Next Education Back-end
+        - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url: https://www.dio.me/certificate/38F3DE1A/share
-          date_end: '2023-02-20'
-          date_start: ''
-          description: Curso completo de Java com certificação DioPro.
-          organization: dio
-          organization_url: ''
-          title: Formação Java Developer
-          url: ''
-        - certificate_url: https://www.freecodecamp.org/certification/guilherme-dos-santos-de-espindula/scientific-computing-with-python-v7
-          date_end: '2022-09-13'
-          date_start: ''
-          description: Developer Certification, representing approximately 300 hours of coursework.
-          organization: freecodecamp
-          organization_url: ''
-          title: 'Scientific Computing with Python'
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
           url: ''
     design:
       columns: '2'
@@ -139,7 +139,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      # email: test@example.org
+      email: test@example.org
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
