@@ -25,13 +25,13 @@ superuser: true
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
+Interesses:
   - Raspagem de Dados
   - Inteligencia Artificial
   - Machine Learning
 
 # Education to show in About widget
-education:
+Formação acadêmica:
   courses:
     - course: Ciência da Computação
       institution: Centro Universitário União das Américas Descomplica
@@ -47,10 +47,10 @@ social:
     link: '/#contact'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/guilherme-se
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/guilherme-santos-espindula/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
