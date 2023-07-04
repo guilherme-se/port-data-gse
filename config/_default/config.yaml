@@ -3,14 +3,14 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: GSE # Website name
+title: Guilherme Santos # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: pt
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
