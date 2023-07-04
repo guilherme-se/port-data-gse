@@ -40,7 +40,7 @@ sections:
         - title: Estagio de Ti
           company: Predictus
           company_url: ''
-          company_logo: '1684953816770.svg'
+          company_logo: ''
           location: Florianopolis
           date_start: '2022-04-01'
           date_end: '2022-08-01'
@@ -53,7 +53,7 @@ sections:
         - title: Auxiliar de escritório/Ti
           company: ConCrédito Consignados
           company_url: ''
-          company_logo: '1650899034730.svg'
+          company_logo: ''
           location: Osório
           date_start: '2021-11-01'
           date_end: '2022-04-30'
