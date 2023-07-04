@@ -4,19 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Sobre
     url: '#about'
     weight: 10
-  - name: Experience
+  - name: Experiência
     url: '#experience'
     weight: 20
-  - name: Accomplishments
+  - name: Certificados
     url: '#accomplishments'
     weight: 25 
-  - name: Projects
+  - name: Projetos
     url: '#projects'
     weight: 30
-  - name: Contact
+  - name: Contato
     url: '#contact'
     weight: 60
 
