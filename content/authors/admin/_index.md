@@ -25,13 +25,13 @@ superuser: true
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-Interesses:
+interests:
   - Raspagem de Dados
   - Inteligencia Artificial
   - Machine Learning
 
 # Education to show in About widget
-Formação acadêmica:
+education:
   courses:
     - course: Ciência da Computação
       institution: Centro Universitário União das Américas Descomplica
