@@ -7,7 +7,7 @@ main:
   - name: Sobre
     url: '#about'
     weight: 10
-  - name: Experiência
+  - name: Experiências
     url: '#experience'
     weight: 20
   - name: Certificados

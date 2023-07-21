@@ -3,8 +3,8 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-en:
-  languageCode: en-us
+# en:
+#   languageCode: en-us
 
 pt:
   languageCode: pt
