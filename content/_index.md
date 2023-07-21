@@ -20,7 +20,7 @@ sections:
           icon_pack: fab
         - name: Python
           icon: spring
-          icon_pack: fab
+          icon_pack: icons
         - name: JavaScript
           icon: js
           icon_pack: fab
