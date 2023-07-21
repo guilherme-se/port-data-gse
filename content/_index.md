@@ -19,10 +19,10 @@ sections:
           icon: java
           icon_pack: fab
         - name: Python
-          icon: js.svg
-          filename: iconstec
+          icon: E:\port-data-gse\assets\media\icons\iconstec\spring.svg
+          icon_pack: fab
         - name: JavaScript
-          icon: js
+          icon: postgree.svg
           icon_pack: fab
   - block: experience
     id: experience
