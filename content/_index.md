@@ -19,15 +19,15 @@ sections:
           icon: java
           icon_pack: fab
         - name: Python
-          icon: python
-          icon_pack: fab
+          icon: js.svg
+          filename: iconstec
         - name: JavaScript
           icon: js
           icon_pack: fab
   - block: experience
     id: experience
     content:
-      title: Experiência
+      title: Experiências
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
