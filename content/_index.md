@@ -88,8 +88,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://cursos.alura.com.br/degree/certificate/416d5a88-141b-4a47-a61c-fd8f4bcaba11
-          date_end: ''
-          date_start: ''
+          date_end: '2023'
+          date_start: '2021-01-25'
           description: ''
           organization: alura_
           organization_url: https://www.alura.com.br
@@ -97,7 +97,7 @@ sections:
           url: ''
         - certificate_url: https://cursos.alura.com.br/degree/certificate/c9acc2f0-c67e-41f1-8e6f-ce7bd358d72d
           date_end: ''
-          date_start: ''
+          date_start: '2021-01-01'
           description: ''
           organization: alura_
           organization_url: https://www.alura.com.br
@@ -106,7 +106,7 @@ sections:
 
         - certificate_url: https://www.dio.me/certificate/38F3DE1A/share
           date_end: ''
-          date_start: ''
+          date_start: '2021-01-01'
           description: ''
           organization: dio
           organization_url: https://www.alura.com.br
