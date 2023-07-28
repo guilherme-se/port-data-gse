@@ -27,6 +27,12 @@ sections:
         - name: JavaScript
           icon: js
           icon_pack: fab
+        - name: MySQL
+          icon: database
+          icon_pack: fab  
+        - name: Git
+          icon: git-alt
+          icon_pack: fab  
   - block: experience
     id: experience
     content:
