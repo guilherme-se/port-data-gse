@@ -88,25 +88,25 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://cursos.alura.com.br/degree/certificate/416d5a88-141b-4a47-a61c-fd8f4bcaba11
-          date_end: '2023-07-03'
-          date_start: '2023-05-23'
+          date_end: ''
+          date_start: '2021-01-25'
           description: ''
           organization: alura_
           organization_url: https://www.alura.com.br
-          title: Formação SQL com MySQL Server da Oracle
+          title: SQL COM MYSQL SERVER DA ORACLE
           url: ''
         - certificate_url: https://cursos.alura.com.br/degree/certificate/c9acc2f0-c67e-41f1-8e6f-ce7bd358d72d
-          date_end: '2023-05-17'
-          date_start: '2023-02-10'
+          date_end: ''
+          date_start: '2021-01-01'
           description: ''
           organization: alura_
           organization_url: https://www.alura.com.br
-          title: Formação Java e Spring Boot
+          title: JAVA E SPRING BOOT
           url: https://cursos.alura.com.br/degree/certificate/c9acc2f0-c67e-41f1-8e6f-ce7bd358d72d
 
         - certificate_url: https://www.dio.me/certificate/38F3DE1A/share
-          date_end: '2023-02-20'
-          date_start: 
+          date_end: ''
+          date_start: '2021-01-01'
           description: ''
           organization: dio
           organization_url: https://www.alura.com.br
@@ -114,8 +114,8 @@ sections:
           url: https://www.dio.me/certificate/38F3DE1A/share
 
         - certificate_url: https://www.freecodecamp.org/certification/guilherme-dos-santos-de-espindula/scientific-computing-with-python-v7
-          date_end: '2022-12-13'
-          date_start: 
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
           description: ''
           organization: freecodecamp
           organization_url: https://www.freecodecamp.org
