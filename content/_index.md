@@ -28,13 +28,11 @@ sections:
           icon: wordpress
           icon_pack: fab
         - name: MySQL
-          icon: assets/media/icons/mysql
-          icon_pack:
-        - name: Postgree
-          icon: dio 
-        # - name: Git
-        #   icon: git-alt
-        #   icon_pack: fab  
+          icon: database
+          icon_pack: fab
+        - name: Git
+          icon: git-alt
+          icon_pack: fab  
   - block: experience
     id: experience
     content:
