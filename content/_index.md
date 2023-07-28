@@ -89,15 +89,15 @@ sections:
       items:
         - certificate_url: https://cursos.alura.com.br/degree/certificate/416d5a88-141b-4a47-a61c-fd8f4bcaba11
           date_end: '2023-07-25'
-          date_start: ''
+          date_start: '2023-05-20'
           description: ''
           organization: alura_
           organization_url: https://www.alura.com.br
           title: 'Formação SQL com MySQL Server da Oracle'
           url: ''
         - certificate_url: https://cursos.alura.com.br/degree/certificate/c9acc2f0-c67e-41f1-8e6f-ce7bd358d72d
-          date_end: '2023-05-01'
-          date_start: ''
+          date_end: '2023-05-17'
+          date_start: '2023-03-10'
           description: ''
           organization: alura_
           organization_url: https://www.alura.com.br
@@ -106,7 +106,7 @@ sections:
 
         - certificate_url: https://www.dio.me/certificate/38F3DE1A/share
           date_end: '2023-02-01'
-          date_start: ''
+          date_start: '2023-01-15'
           description: ''
           organization: dio
           organization_url: https://www.alura.com.br
