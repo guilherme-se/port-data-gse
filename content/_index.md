@@ -91,7 +91,7 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: alura
+          organization: org-gc
           organization_url: https://www.alura.com.br
           title: SQL COM MYSQL SERVER DA ORACLE
           url: ''
@@ -99,7 +99,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          organization: alura
+          organization: mysql
           organization_url: https://www.alura.com.br
           title: JAVA E SPRING BOOT
           url: https://cursos.alura.com.br/degree/certificate/c9acc2f0-c67e-41f1-8e6f-ce7bd358d72d
@@ -108,7 +108,7 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: freeCodeCamp
+          organization: mysql.svg
           organization_url: https://www.freecodecamp.org
           title: 'Scientific Computing with Python'
           url: https://www.freecodecamp.org/certification/guilherme-dos-santos-de-espindula/scientific-computing-with-python-v7
