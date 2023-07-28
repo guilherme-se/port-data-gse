@@ -31,8 +31,8 @@ sections:
           icon: database
           icon_pack: fab  
         - name: Git
-          icon: git-alt
-          icon_pack: fab  
+          icon: postgree
+           
   - block: experience
     id: experience
     content:
