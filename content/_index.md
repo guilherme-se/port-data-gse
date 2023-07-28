@@ -99,7 +99,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          organization: Alura
+          organization: media/icons/brands/js.svg
           organization_url: https://www.alura.com.br
           title: JAVA E SPRING BOOT
           url: https://cursos.alura.com.br/degree/certificate/c9acc2f0-c67e-41f1-8e6f-ce7bd358d72d
