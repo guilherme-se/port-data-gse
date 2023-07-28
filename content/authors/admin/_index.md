@@ -65,6 +65,6 @@ email: ''
 highlight_name: true
 ---
 
-Graduando em Ciência da Computação, sou uma pessoa analítica e apaixonado por aprender novos conceitos e tecnologias. Atualmente, busco uma oportunidade para adquirir experiência na área de Backend e dar o próximo passo como desenvolvedor. Estou em busca de uma empresa que valorize o trabalho em equipe e um ambiente de aprendizado constante, onde eu possa crescer profissionalmente e contribuir para o sucesso da empresa.
+Graduando em Ciência da Computação, sou uma pessoa analítica e apaixonado por aprender novos conceitos e tecnologias. Atualmente, busco uma oportunidade para adquirir experiência na área e dar o próximo passo como desenvolvedor. Estou em busca de uma empresa que valorize o trabalho em equipe e um ambiente de aprendizado constante, onde eu possa crescer profissionalmente e contribuir para o sucesso da empresa.
 {style="text-align: justify;"}
 

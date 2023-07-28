@@ -28,7 +28,7 @@ sections:
           icon: wordpress
           icon_pack: fab
         - name: MySQL
-          icon: fa-database
+          icon: database
           icon_pack: fab  
         - name: Git
           icon: git-alt
@@ -87,13 +87,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://cursos.alura.com.br/user/guilhermesantosespind/degree-oracle-mysql-3983/certificate
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Alura
+          organization_url: https://www.alura.com.br/
+          title: SQL COM MYSQL SERVER DA ORACLE
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
