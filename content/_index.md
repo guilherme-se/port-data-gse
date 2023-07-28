@@ -104,6 +104,15 @@ sections:
           title: JAVA E SPRING BOOT
           url: https://cursos.alura.com.br/degree/certificate/c9acc2f0-c67e-41f1-8e6f-ce7bd358d72d
 
+        - certificate_url: https://www.dio.me/certificate/38F3DE1A/share
+          date_end: ''
+          date_start: '2021-01-01'
+          description: ''
+          organization: dio
+          organization_url: https://www.alura.com.br
+          title: FORMAÇÃO JAVA DEVELOPER
+          url: https://www.dio.me/certificate/38F3DE1A/share
+
         - certificate_url: https://www.freecodecamp.org/certification/guilherme-dos-santos-de-espindula/scientific-computing-with-python-v7
           date_end: '2020-12-21'
           date_start: '2020-07-01'
