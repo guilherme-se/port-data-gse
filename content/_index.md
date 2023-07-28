@@ -93,7 +93,7 @@ sections:
           description: ''
           organization: alura_
           organization_url: https://www.alura.com.br
-          title: 'Formação SQL com MySQL Server da Oracle'
+          title: Formação SQL com MySQL Server da Oracle
           url: ''
         - certificate_url: https://cursos.alura.com.br/degree/certificate/c9acc2f0-c67e-41f1-8e6f-ce7bd358d72d
           date_end: ''
@@ -101,7 +101,7 @@ sections:
           description: ''
           organization: alura_
           organization_url: https://www.alura.com.br
-          title: 'Formação Java e Spring Boot'
+          title: Formação Java e Spring Boot
           url: https://cursos.alura.com.br/degree/certificate/c9acc2f0-c67e-41f1-8e6f-ce7bd358d72d
 
         - certificate_url: https://www.dio.me/certificate/38F3DE1A/share
@@ -114,8 +114,8 @@ sections:
           url: https://www.dio.me/certificate/38F3DE1A/share
 
         - certificate_url: https://www.freecodecamp.org/certification/guilherme-dos-santos-de-espindula/scientific-computing-with-python-v7
-          date_end: ''
-          date_start: ''
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
           description: ''
           organization: freecodecamp
           organization_url: https://www.freecodecamp.org
