@@ -88,16 +88,16 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://cursos.alura.com.br/degree/certificate/416d5a88-141b-4a47-a61c-fd8f4bcaba11
-          date_end: '2023-07'
-          date_start: '2023-05'
+          date_end: '2023'
+          date_start: '2021-01-25'
           description: ''
           organization: alura_
           organization_url: https://www.alura.com.br
           title: 'Formação SQL com MySQL Server da Oracle'
           url: ''
         - certificate_url: https://cursos.alura.com.br/degree/certificate/c9acc2f0-c67e-41f1-8e6f-ce7bd358d72d
-          date_end: '2023-05'
-          date_start: '2023-03'
+          date_end: ''
+          date_start: '2021-01-01'
           description: ''
           organization: alura_
           organization_url: https://www.alura.com.br
@@ -105,8 +105,8 @@ sections:
           url: https://cursos.alura.com.br/degree/certificate/c9acc2f0-c67e-41f1-8e6f-ce7bd358d72d
 
         - certificate_url: https://www.dio.me/certificate/38F3DE1A/share
-          date_end: '2023-02'
-          date_start: '2023-01'
+          date_end: ''
+          date_start: '2021-01-01'
           description: ''
           organization: dio
           organization_url: https://www.alura.com.br
@@ -114,8 +114,8 @@ sections:
           url: https://www.dio.me/certificate/38F3DE1A/share
 
         - certificate_url: https://www.freecodecamp.org/certification/guilherme-dos-santos-de-espindula/scientific-computing-with-python-v7
-          date_end: '2022-12'
-          date_start: '2022-10'
+          date_end: '2022-12-13'
+          date_start: '2022-10-05'
           description: ''
           organization: freecodecamp
           organization_url: https://www.freecodecamp.org
