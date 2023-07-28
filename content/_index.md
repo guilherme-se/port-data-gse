@@ -106,7 +106,7 @@ sections:
 
         - certificate_url: https://www.dio.me/certificate/38F3DE1A/share
           date_end: '2023-02-20'
-          date_start: ''
+          date_start: 
           description: ''
           organization: dio
           organization_url: https://www.alura.com.br
@@ -115,7 +115,7 @@ sections:
 
         - certificate_url: https://www.freecodecamp.org/certification/guilherme-dos-santos-de-espindula/scientific-computing-with-python-v7
           date_end: '2022-12-13'
-          date_start: ''
+          date_start: 
           description: ''
           organization: freecodecamp
           organization_url: https://www.freecodecamp.org
