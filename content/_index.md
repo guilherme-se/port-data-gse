@@ -91,7 +91,7 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: alura
+          organization: alura2
           organization_url: https://www.alura.com.br
           title: SQL COM MYSQL SERVER DA ORACLE
           url: ''
