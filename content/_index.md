@@ -88,7 +88,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://cursos.alura.com.br/degree/certificate/416d5a88-141b-4a47-a61c-fd8f4bcaba11
-          date_end: '2023'
+          date_end: ''
           date_start: '2021-01-25'
           description: ''
           organization: alura_
