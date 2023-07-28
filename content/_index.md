@@ -87,11 +87,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://cursos.alura.com.br/user/guilhermesantosespind/degree-oracle-mysql-3983/certificate
+        - certificate_url: https://cursos.alura.com.br/degree/certificate/416d5a88-141b-4a47-a61c-fd8f4bcaba11
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: org-gc
+          organization: alura
           organization_url: https://www.alura.com.br
           title: SQL COM MYSQL SERVER DA ORACLE
           url: ''
