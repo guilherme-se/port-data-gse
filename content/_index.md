@@ -21,6 +21,9 @@ sections:
         - name: Python
           icon: python
           icon_pack: fab
+        - name: Wordpress
+          icon: wordpress
+          icon_pack: fab
         - name: JavaScript
           icon: js
           icon_pack: fab
