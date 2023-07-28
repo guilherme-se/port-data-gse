@@ -19,8 +19,8 @@ sections:
           icon: java
           icon_pack: fab
         - name: Python
-          icon: spring
-          icon_pack: icons
+          icon: python
+          icon_pack: fab
         - name: JavaScript
           icon: js
           icon_pack: fab
