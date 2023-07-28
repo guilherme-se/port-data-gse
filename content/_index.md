@@ -21,14 +21,14 @@ sections:
         - name: Python
           icon: python
           icon_pack: fab
-        - name: Wordpress
-          icon: wordpress
-          icon_pack: fab
         - name: JavaScript
           icon: js
           icon_pack: fab
+        - name: Wordpress
+          icon: wordpress
+          icon_pack: fab
         - name: MySQL
-          icon: database
+          icon: fa-database
           icon_pack: fab  
         - name: Git
           icon: git-alt
