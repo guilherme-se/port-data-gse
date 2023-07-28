@@ -108,7 +108,7 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: alura
+          organization: freecode
           organization_url: https://www.freecodecamp.org
           title: 'Scientific Computing with Python'
           url: https://www.freecodecamp.org/certification/guilherme-dos-santos-de-espindula/scientific-computing-with-python-v7
