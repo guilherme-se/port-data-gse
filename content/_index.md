@@ -28,11 +28,14 @@ sections:
           icon: wordpress
           icon_pack: fab
         - name: MySQL
-          icon: database
+          icon: server
           icon_pack: fab
-        - name: Git
-          icon: git-alt
-          icon_pack: fab  
+        - name: Teste
+          icon: spring
+          icon_pack:     
+        # - name: Git
+        #   icon: git-alt
+        #   icon_pack: fab  
   - block: experience
     id: experience
     content:
