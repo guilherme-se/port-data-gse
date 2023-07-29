@@ -28,8 +28,8 @@ sections:
           icon: wordpress
           icon_pack: fab
         - name: MySQL
-          icon: server
-          icon_pack: fab
+          icon: mysql
+          icon_pack: custom
         - name: Teste
           icon: spring
           icon_pack: custom   
