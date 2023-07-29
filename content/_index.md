@@ -146,7 +146,7 @@ sections:
           tag: Outros
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -156,7 +156,7 @@ sections:
       title: Contato
       subtitle:
       text: |-
-        Entre em contato para trabalharmos juntos ☕
+        Entre em Contato para Trabalharmos Juntos ☕
       # Contact (add or remove contact options as necessary)
       # email: test@example.org
       # Automatically link email and phone or display as text?
