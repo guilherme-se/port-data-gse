@@ -1,4 +1,5 @@
 ---
+widget: blank
 title: Bot Kabum para Estudos Scrapy
 summary: O projeto é capaz de raspar qualquer produto da kabum desde que siga a norma de url conforme os exemplos em pagina_atual, atualmente ele consegue raspar 100 produtos por pagina.
 tags:
