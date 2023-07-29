@@ -156,7 +156,7 @@ sections:
       title: Contato
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Entre em contato para trabalharmos juntos ☕
       # Contact (add or remove contact options as necessary)
       # email: test@example.org
       # Automatically link email and phone or display as text?
