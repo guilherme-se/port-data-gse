@@ -140,10 +140,10 @@ sections:
       buttons:
         - name: Todos
           tag: '*'
-        - name: Web Scrapy
-          tag: Web Scrapy
+        - name: WebScrapy
+          tag: WebScrapy
         - name: Outros
-          tag: Demo
+          tag: Outros
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
