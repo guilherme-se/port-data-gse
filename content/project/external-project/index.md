@@ -6,9 +6,6 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-widget: blank
-headless: true
-
 external_link: https://github.com/guilherme-se/bot-kabum-estudos-scrapy
 
 image:
