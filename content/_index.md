@@ -123,7 +123,7 @@ sections:
           url: https://www.freecodecamp.org/certification/guilherme-dos-santos-de-espindula/scientific-computing-with-python-v7
     design:
       columns: '2'
-  - block: blank
+  - block: portfolio
     id: projects
     content:
       title: Projetos
