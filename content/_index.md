@@ -28,11 +28,11 @@ sections:
           icon: wordpress
           icon_pack: fab
         - name: MySQL
-          icon: https://fontawesome.com/icons/server?f=classic&s=solid
+          icon: server
           icon_pack: fab
         - name: Teste
           icon: spring
-          icon_pack:     
+          icon_pack: custom   
         # - name: Git
         #   icon: git-alt
         #   icon_pack: fab  
