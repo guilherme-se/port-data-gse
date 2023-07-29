@@ -1,12 +1,12 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Bot-kabum-estudos-scrapy
+summary: o projeto é capaz de raspar qualquer produto da kabum desde que siga a norma de url conforme os exemplos em pagina_atual, atualmente ele consegue raspar 100 produtos por pagina.
 tags:
-  - Demo
+  - WebScrapy
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://github.com/guilherme-se/bot-kabum-estudos-scrapy
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
