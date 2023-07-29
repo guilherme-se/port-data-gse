@@ -30,12 +30,9 @@ sections:
         - name: MySQL
           icon: mysql
           icon_pack: custom
-        - name: Teste
-          icon: spring
+        - name: Postfree
+          icon: postgree
           icon_pack: custom   
-        # - name: Git
-        #   icon: git-alt
-        #   icon_pack: fab  
   - block: experience
     id: experience
     content:
