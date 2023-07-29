@@ -30,7 +30,7 @@ sections:
         - name: MySQL
           icon: mysql
           icon_pack: custom
-        - name: Postfree
+        - name: PostgreSQL
           icon: postgree
           icon_pack: custom   
   - block: experience
