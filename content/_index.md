@@ -28,7 +28,7 @@ sections:
           icon: wordpress
           icon_pack: fab
         - name: MySQL
-          icon: server
+          icon: https://fontawesome.com/icons/server?f=classic&s=solid
           icon_pack: fab
         - name: Teste
           icon: spring
